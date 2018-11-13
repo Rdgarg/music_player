@@ -1,0 +1,7 @@
+.contentbar {
+    margin-top: 2px;
+    height: 1000px;
+    width: 100%;
+    outline: 1px solid;
+    display: inline-block;
+}

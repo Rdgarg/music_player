@@ -1,0 +1,6 @@
+#songslist {
+    height: inherit;
+    width: 50%;
+    outline: 1px solid;
+    float: left;
+}

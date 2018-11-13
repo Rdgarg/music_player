@@ -1,0 +1,6 @@
+#playerbar {
+    width: 50%;
+    outline: 1px solid;
+    height: inherit;
+    float: left;
+}
