@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Run this project by opening this project in your visual studio code and running npm install and then npm run.
+
 ## Available Scripts
 
 In the project directory, you can run:
